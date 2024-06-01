@@ -1,0 +1,23 @@
+{
+  "name": "toxtrek-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tpichardo/ToxTrek-Backend.git"
+  },
+  "author": "Talia Pichardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tpichardo/ToxTrek-Backend/issues"
+  },
+  "homepage": "https://github.com/Tpichardo/ToxTrek-Backend#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
